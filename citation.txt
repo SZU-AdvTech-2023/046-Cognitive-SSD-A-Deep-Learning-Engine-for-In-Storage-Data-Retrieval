@@ -1,0 +1,7 @@
+@inproceedings{REPO046,
+    author = "Liang, Shengwen and Wang, Ying and Lu, Youyou and Yang, Zhe and Li, Huawei and Li, Xiaowei",
+    booktitle = "2019 USENIX Annual Technical Conference (USENIX ATC 19)",
+    pages = "395--410",
+    title = "{Cognitive SSD: A Deep Learning Engine for In-Storage Data Retrieval}",
+    year = "2019"
+}
