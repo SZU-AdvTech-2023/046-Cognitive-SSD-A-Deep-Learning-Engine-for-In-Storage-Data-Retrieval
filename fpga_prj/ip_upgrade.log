@@ -1,0 +1,37 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Wed Oct 25 16:30:57 2023
+| Host         : DESKTOP-BS5G1GF running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu7eg-ffvc1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_pwdwconv_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_pwdwconv_0_0 (xilinx.com:hls:pwdwconv:0.0) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Wed Oct 25 14:19:33 2023
+| Host         : DESKTOP-BS5G1GF running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu7eg-ffvc1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_pwdwconv_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_pwdwconv_0_0 (xilinx.com:hls:pwdwconv:0.0) to Vivado generation flows.
+
